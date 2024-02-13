@@ -1,1 +1,1 @@
-bool set_isrunning = true
+int set_isrunning = 1
